@@ -1,5 +1,7 @@
 # Kimagure
 
+![image](https://user-images.githubusercontent.com/26436276/122970022-5830a600-d35b-11eb-9a14-8c19c484a158.png)
+
 This is a very quick and dirty tool to generate fairly small Windows shellcode that calls WinExec 
 with a given command, with a focus on readability and ease of debugging. Included is a generator 
 script and the template assembly code that it is based on. 
